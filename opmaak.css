@@ -1,0 +1,123 @@
+body{
+background-color: black;
+background-image: url("https://wallpaperaccess.com/full/1465147.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+p{
+  color: white;
+  text-align: left;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-size: 45px;
+}
+
+h2{
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+ul{
+  list-style: none;
+  text-align: center;
+}
+
+li{
+  display: inline;
+  border: 2px solid white;
+  color: rgb(87,145,84);
+  background-color: black;
+  padding: 2px;
+}
+
+a{
+  color: aqua;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+  height: 20px;
+  margin-top: -1px;
+  text-align: center;
+}
+
+a:hover{
+  color: black;
+  font-size: 18px;
+}
+
+li:hover{
+  background-color: cyan;
+}
+
+img{
+  margin: 25px
+}
+
+table{
+  border: 2px solid white;
+  border-collapse: collapse;
+  margin-left: 650px;
+}
+
+td{
+  border: 2px solid white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+img#billgates1{
+  width:500px;
+  height:330px;
+}
+img#billgates2{
+  width:345px;
+  height:330px;
+}
+
+img.plaatjesindex{
+  margin-left: 100px;
+}
+
+.filmpje{
+  margin-left: 512px;
+  margin-top: 20px;
+  border: 2px solid cyan;
+  padding: 20px;
+}
+
+.kaart{
+  margin-left: 475px;
+}
+
+.center0{
+  text-align: center;
+  font-size: 18px;
+}
+
+.center{
+  text-align: center;
+}
+
+.microsoft{
+  margin-top: 1px;
+  margin-left: 137px;
+}
+
+.aanwezig{
+  color: black;
+  font-size: 18px;
+  background-color: cyan;
+}
+
+.zwartwit{
+  filter: grayscale(100%);
+}
+
+#BillGatesPlaatje{
+  height: 200px;
+}
